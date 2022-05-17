@@ -1,7 +1,7 @@
 ### ¡Bienvenidos a mi perfil! 👋
 ---
 [<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white">](www.linkedin.com/in/fabriciomolina)
-[<img src="https://img.shields.io/badge/Portfolio-%23000000.svg?&style=for-the-badge">](https://fabriciomolina414.github.io/portfolio/)
+[<img src="https://img.shields.io/badge/Portfolio-%23000000.svg?&style=for-the-badge" target="_blank">](https://fabriciomolina414.github.io/portfolio/)
 
 <!--
 
