@@ -26,4 +26,7 @@
 <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white">
 
 ## Contactame :inbox_tray:
-[<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">] fabricio.j.molina@gmail.com
+<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"> fabricio.j.molina@gmail.com
+--
+
+<img src="https://raw.githubusercontent.com/saadeghi/saadeghi/master/dino.gif" />
