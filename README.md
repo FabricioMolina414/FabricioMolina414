@@ -1,7 +1,6 @@
-### Hi there 👋
-
+### ¡Bienvenidos a mi perfil! 👋
+<img align='right' src="https://media.giphy.com/media/ieyl9zmCjO4b4t6qoY/giphy.gif" width="230">
 <!--
-**FabricioMolina414/FabricioMolina414** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
