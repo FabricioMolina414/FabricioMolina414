@@ -1,11 +1,16 @@
-### ¡Bienvenidos a mi perfil! 👋
+# ¡Bienvenidos a mi perfil! 👋
 ---
 [<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white">](www.linkedin.com/in/fabriciomolina)
 [<img src="https://img.shields.io/badge/Portfolio-%23000000.svg?&style=for-the-badge">](https://fabriciomolina414.github.io/portfolio/)
-[<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">](https://mail.google.com/mail/u/0/?tab=rm&ogbl)
+
+## Acerca de mi
+:round_pushpin: Santafesino viviendo actualmente en Códoba Capital. 
+:books: Estudiante de Licenciatura en Ciencias de la Computación en FAMAF - UNC. 
+:musical_note: Amante de la música. 
+:seedling: Aprendiendo nuevas tecnologías. 
 
 <!--
-
+[<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">](https://mail.google.com/mail/u/0/?tab=rm&ogbl)
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
