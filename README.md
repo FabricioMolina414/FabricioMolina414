@@ -4,10 +4,10 @@
 [<img src="https://img.shields.io/badge/Portfolio-%23000000.svg?&style=for-the-badge">](https://fabriciomolina414.github.io/portfolio/)
 
 ## Acerca de mi
-:round_pushpin: Santafesino viviendo actualmente en Códoba Capital. 
-:books: Estudiante de Licenciatura en Ciencias de la Computación en FAMAF - UNC. 
-:musical_note: Amante de la música. 
-:seedling: Aprendiendo nuevas tecnologías. 
+- :round_pushpin: Santafesino viviendo actualmente en Códoba Capital. 
+- :books: Estudiante de Licenciatura en Ciencias de la Computación en FAMAF - UNC. 
+- :musical_note: Amante de la música. 
+- :seedling: Aprendiendo nuevas tecnologías. 
 
 <!--
 [<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">](https://mail.google.com/mail/u/0/?tab=rm&ogbl)
