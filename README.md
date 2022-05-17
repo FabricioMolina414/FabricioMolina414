@@ -1,5 +1,5 @@
 ### ¡Bienvenidos a mi perfil! 👋
-<img align='right' src="https://media.giphy.com/media/ieyl9zmCjO4b4t6qoY/giphy.gif" width="230">
+---
 <!--
 
 Here are some ideas to get you started:
